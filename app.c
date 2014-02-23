@@ -1,5 +1,12 @@
+/*
+	@author: Joshua Sager
+	@version: in development
+	@description: playground application for me to learn how to write software using gtk
+*/
 #include <gtk/gtk.h>
-
+// TODO: Create a label
+// TOOD: Update the label when button is pressed
+// TODO: Insert an image
 GtkWidget *button; 
 GtkWidget *window;
 
